@@ -28,8 +28,10 @@ const generatePassword = () => {
 const copyPassword = () => {
     //console.log("copied")
     const passwordText = passwordValue.value;
-    if (!passwordText) return;
-
+    if (!passwordText) {
+         alert("Please generate the Password!");
+     return;
+    }
     if (navigator.clipboard && window.isSecureContext) {
         navigator.clipboard.writeText(passwordText).then(() => {
             alert("Password copied to clipboard!");
