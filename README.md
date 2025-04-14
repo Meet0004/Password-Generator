@@ -15,3 +15,10 @@ This is a simple JavaScript-based Random Password Generator that allows users to
 
 ## Technologies Used  
 - HTML, CSS, JavaScript
+
+## Collaboration
+I'm open to collaborating on projects that focus on **building and learning together**! If you're interested, feel free to connect with me.
+
+Connect with me using my Server:
+- **Discord:** [Join Here](https://discord.gg/QqB8srq)
+- **LinkedIn:** [Meet Soni](www.linkedin.com/in/meet-soni-tenacious)
